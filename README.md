@@ -87,7 +87,10 @@ print("RMSE = ",rmse)
 ### df.tail()
 ![image](https://github.com/VARSHINI22009118/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119401150/6e5d3991-a656-40dd-b590-f0cde57a9df7)
 
-
+<br>
+<br>
+<br>
+<br>
 
 ### Array value of X
 ![image](https://github.com/VARSHINI22009118/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119401150/cbdade85-e2f8-4033-99ca-c150a2540f4d)
